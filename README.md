@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M.TAHA</h1>
-<h3 align="center">An emerging Backend developer and Data analyst</h3>
+<h1 align="center">M.TAHA</h1>
+<h3 align="center">A skilled Backend developer and emerging Data analyst</h3>
 
 - 🔭 I’m currently working on coding competitions preparations **Meta hacker cup and others**
 
