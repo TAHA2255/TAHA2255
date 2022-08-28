@@ -1,6 +1,6 @@
 <h1 align="center">M.TAHA</h1>
-<h3 align="center"> BACKEND DEVELOPER | emerging Data analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg")
+<h3 align="center"> BACKEND DEVELOPER | EMERGING DATA ANALYST</h3>
+<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha2255&label=Profile%20views&color=0e75b6&style=flat" alt="taha2255" /> </p>
 
