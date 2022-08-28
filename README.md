@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-illustration/colorful-programming-background-wallpaper-on-600w-704556892.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i0.wp.com/magtemplates.com/wp-content/uploads/2017/06/Programming-Wallpapers-for-Desktop.png?resize=758%2C426&ssl=1)](https://rishavchanda.io)
 <h1 align="center">M.TAHA</h1>
 <h3 align="center"> BACKEND DEVELOPER | EMERGING DATA ANALYST</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
