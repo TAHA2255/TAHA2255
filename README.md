@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jacksontaha421@gmail.com**
 
-- 📄 Know about my experiences [former freelancer as a data entry VA and django developer](former freelancer as a data entry VA and django developer)
+- 📄 Know about my experiences **former freelancer as a data entry VA and django developer**
 
 - ⚡ Fun fact **I don't like poverty but I am not rich as well**
 
