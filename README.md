@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/magtemplates.com/wp-content/uploads/2017/06/Programming-Wallpapers-for-Desktop.png?resize=758%2C426&ssl=1)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://rishavchanda.io)
 <h1 align="center">M.TAHA</h1>
 <h3 align="center"> BACKEND DEVELOPER | EMERGING DATA ANALYST</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
