@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/68070580/132366131-07f1b293-ade4-44a2-ae54-ebb6267243a5.png)](https://rishavchanda.io)
+[![MasterHead]("https://giphy.com/embed/SWoSkN6DxTszqIKEqv")](https://rishavchanda.io)
 <h1 align="center">M.TAHA</h1>
 <h3 align="center"> BACKEND DEVELOPER | EMERGING DATA ANALYST</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
