@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, OOP, javascript concepts**
 
-- 📫 How to reach me **jacksontaha421@gmail.com**
+- 📫 How to reach me **tahajack421@gmail.com**
 
 - 📄 Know about my experiences **former freelancer as a data entry VA and backend  developer**
 
